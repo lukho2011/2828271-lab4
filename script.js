@@ -143,3 +143,5 @@ function clearResults() {
     borderingCountries.classList.add('hidden');
     errorMessage.classList.add('hidden');
 }
+
+
